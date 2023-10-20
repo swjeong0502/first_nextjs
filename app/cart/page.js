@@ -1,6 +1,5 @@
-'use client'
-
-
+import datas from "./data.js"
+import {name, age} from "./data.js"
 export default function Cart(){
     return (
         <div>
